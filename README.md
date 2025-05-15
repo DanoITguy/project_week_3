@@ -39,7 +39,7 @@ technique in which components that are not required on the home page are not loa
 faster than having to wait for the entire app to load at once. This contributes to improved performance, which leads to a positive user experience.
 
 SUMMARY
-I found that to implement lazy loading, go to App.js and wrap my routes with the Suspense component, along with a fallback props that are rendered on the 
+1) I found that to implement lazy loading, go to App.js and wrap my routes with the Suspense component, along with a fallback props that are rendered on the 
 screen until the component loads. Please note that is important for you to know that the fallback props can hold a component. I learned about routing and 
 how to implement it in my React application. The React router is what allows my project to perform single-page routing without reloading the application.
 
