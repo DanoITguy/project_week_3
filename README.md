@@ -16,7 +16,7 @@ SECTION 3
 The workflow diagram communicates the marketing side of this project with employee and work force interactions. This workflow type layout can be used to
 depict the structural and progamming of the React code and routes. 
 3)	Side Challenge:
-I purposely left a “HUGE” arrow out of the diagram and I hope you call me out on it (?).
+I purposely left a “HUGE” arrow out of the diagram and I hope you call me out on it (If you dare?).
 
 SECTION 4
 1)	Wireframe Diagram
